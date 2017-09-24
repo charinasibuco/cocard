@@ -1,0 +1,93 @@
+html, body
+{
+    background: #fff;
+}
+*, body {
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: .8px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: $headings-font-family;
+}
+a{
+    &:hover{
+        text-decoration: none;
+    }
+}
+p,table{
+    font-family: $font-family-base;
+}
+table{
+    overflow-x: auto;
+}
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.center{
+    margin: 0 auto;
+    display: block;
+}
+.margin-0{
+    margin: 0;
+}
+.margin-bot-10{
+    margin-bottom: 10px;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.margin-top{
+    margin-top: 80px;
+}
+@media (max-width: 767px){
+    .margin-mob-top{
+        margin-top:50px;
+    }
+}
+
+hr{
+    border-top: 1px solid #999;
+}
+.color-blue{
+    color: $label-color;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    .tooltiptext {
+        visibility: hidden;
+        width: 120px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+        &:hover{
+            visibility: visible;
+        }
+    }
+}
+.input-group-addon{
+    &:hover{
+        cursor: pointer;
+    }
+}

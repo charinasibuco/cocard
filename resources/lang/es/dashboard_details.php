@@ -1,0 +1,70 @@
+<?php 
+ return [
+ 	//Super Admin
+	 	//Organization
+	 	'organization_name' => 'Nombre de la Organización',
+	 	'status'			=> 'Estado',
+	 	'contact_person' 	=> 'Persona de Contacto',
+	 	'contact_no' 		=> 'Número de Contacto',
+	 	'email'				=> 'Correo Electrónico',
+	 	'url'				=> 'URL',
+	 	'go_to_organization'=> 'Ir a Organización',
+	 	//Administrators
+	 	'administrators'    => 'Administradores',
+	 	'add' 				=> 'Añadir',
+	 	'edit'				=> 'Editar',
+	 	'action'			=> 'Acción',
+	 	'name'				=> 'Nombre',
+	 	//Create
+	 	'add_organization'  	=> 'Añadir organización',
+	 	'name_of_organization'	=> 'Nombre de la Organización',
+	 	'contact_person'		=> 'Persona de Contacto',
+	 	'select_position'		=> 'Seleccionar Posición',
+	 	'contact_number'		=> 'Número de contacto',
+	 	'email_address'			=> 'Dirección de correo electrónico',
+	 	'password'				=> 'Contraseña',
+	 	//User
+	 	'user'					=> 'Usuario',
+	 	'role'					=> 'Papel',
+	 	'add_user'				=> 'Agregar Usuario',
+	 	'user_add'				=> 'Agregar Usuario',
+	 	'change_profile_picture'=> 'Cambiar Foto de Perfil',
+	 	'first_name'			=> 'Nombre de Pila',
+	 	'middle_name'			=> 'Segundo Nombre',
+	 	'last_name'				=> 'Apellido',
+	 	'phone_number'			=> 'Número de Teléfono',
+	 	'confirm_password'		=> 'Confirmar Contraseña',
+	 	//Page
+	 	'title'					=> 'Título',
+	 	'parent_page'			=> 'Página de los Padres',
+	 	'slug'					=> 'Babosa',
+	 	'order'					=> 'Orden',
+	 	'choose_order'			=> 'Elegir Orden',
+	 	'add_page'				=> 'Añadir Página',
+	 	'main'					=> 'Principal',
+	 	'meta'					=> 'Meta',
+	 	'content'				=> 'Contenido',
+	 	'meta_title'			=> 'Meta Título',
+	 	'meta_keywords'			=> 'Meta Palabras Clave',
+	 	'meta_description'		=> 'Meta Descripción',
+	 	'please_enter_slug'     => 'por-favor-ingrese-slug',
+	 	//Permission List
+	 	'description'			=> 'Descripción',
+	 	//buttons
+	 	'back'					=> 'Espalda',
+	 	'cancel'				=> 'Cancelar',
+	 	'submit'				=> 'Enviar',
+	 	'modify'				=> 'Modificar',
+	 	'deactivate'			=> 'Desactivar',
+	 	'activate'				=> 'Activar',
+	 	'approve'				=> 'Aprobar',
+	 	'decline'				=> 'Disminución',
+	 	'go'					=> 'Ir',
+	 	//Activity Log
+	 	'activity_log'			=> 'Registro de Actividades',
+	 	'updated_by'			=> 'Actualizado Por',
+	 	'activity'				=> 'Actividad',
+	 	'details'				=> 'Detalles',
+	 	'date'					=> 'Fecha',
+	 	'search'				=> 'Buscar'
+ ];

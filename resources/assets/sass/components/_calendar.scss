@@ -1,0 +1,136 @@
+.volunteer-group-filter-container {
+    margin-bottom: 20px;
+}
+.calendar-legend {
+    margin-top: 20px;
+}
+.calendar {
+    .fc-toolbar {
+        background: #012732;
+        border-radius: 3px 3px 0 0;
+        margin-bottom: 0;
+        padding: 20px;
+        @media(max-width: 768px) {
+            padding: 10px;
+        }
+        .fc-center {
+            h2 {
+                color: #FFF;
+                display: inline-block;
+                font-size: 15px;
+                @media(max-width: 768px) {
+                    font-size: 12px;
+                }
+            }
+            .fc-button {
+                display: inline-block;
+            }
+        }
+        .fc-button {
+            .fc-icon {
+                color: #FFF;
+            }
+            background: transparent;
+            box-shadow: none;
+            border: none;
+            color: #FFF;
+            text-shadow: none;
+            @media(max-width: 768px) {
+                font-size: 12px;
+            }
+            &.fc-today-button {
+                @media(max-width: 768px) {
+                    display: none;
+                }
+            }
+        }
+    }
+    .fc-view-container {
+        .fc-day-header {
+            font-size: 15px;
+            font-weight: 400;
+            padding: 10px;
+            @media(max-width: 768px) {
+                font-size: 12px;
+                padding: 5px;
+            }
+        }
+        .fc-day-top {
+            padding-left: 10px;
+        }
+        .fc-day-number,
+        .fc-axis {
+            @media(max-width: 768px) {
+                font-size: 12px;
+                padding: 5px;
+            }
+        }
+        .fc-content {
+            .fc-time,
+            .fc-title {
+                color: #fff;
+            }
+        }
+        .fc-list-table {
+            .fc-widget-header,
+            .fc-list-item {
+                @media(max-width: 768px) {
+                    font-size: 12px;
+                    font-weight: 400;
+                }
+            }
+        }
+    }
+    .well{
+        @media (max-width: 767px){
+            display: inline-table;
+            width: 100%;
+        }
+    }
+}
+
+.calendar-modal {
+    .modal-body {
+        h4{
+            line-height: 1.5;
+        }
+
+    }
+}
+
+.calendar-events {
+    #calendar-view {
+        .calendar{
+            width: 95%;
+            padding: 30px 0;
+        }
+    }
+    .well{
+        @media (max-width: 767px){
+            display: inline-table;
+        }
+    }
+}
+.load_icon {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 )
+    url('../images/ajax-loader.gif')
+    50% 50%
+    no-repeat;
+}
+
+.loading {
+    overflow: hidden;
+    .load_icon {
+        display: block;
+    }
+}
+.fc-scroller.fc-day-grid-container{
+    height: auto!important;
+}

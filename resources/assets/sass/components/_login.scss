@@ -1,0 +1,63 @@
+.bg-banner{
+    background: url(/images/background.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100vh;
+    padding: 55px 0;
+    @media (max-width: 768px){
+        height: 100%;
+    }
+    .form-control{
+        background-color: $brand-primary;
+        color: #fff;
+    }
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari  */
+        color:  #fff;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+        color:  #fff;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+        color:  #fff;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+        color:  #fff;
+    }
+    .transparent-box{
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+        background-color: rgba(255, 255, 255, 0.35);
+        padding: 40px;
+        @media screen and (max-width: 767px){
+            margin-top: 30px;
+        }
+        img{
+            margin: 20px auto;
+            width: 74px;
+            height:74px;
+            display: block;
+        }
+        .input-group-addon {
+            color: #fff;
+            padding: 5px 10px;
+            background-color: $brand-primary;
+            border: none;
+        }
+    }
+    .transparent-box-reg{
+        width: 100%;
+        overflow:auto;
+        margin-top: 12px;
+        background-color: rgba(255, 255, 255, 0.35);
+        padding: 30px;
+        @media (max-width: 500px){
+            margin-top: 50px;
+            padding: 20px;
+        }
+        @media (min-width: 1024px){
+            margin: 60px 0;
+        }
+    }
+}

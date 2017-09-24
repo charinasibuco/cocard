@@ -1,0 +1,31 @@
+.mask {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(0, 0, 0, .75);
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 1040;
+	.panel-body {
+		// max-height: none;
+	}
+	a:hover{
+		text-decoration: none;
+	}
+}
+
+.fade-transition {
+    transition: all 0.5s ease;
+    overflow: hidden;
+    visibility: visible;
+    opacity: 1;
+
+}
+
+.fade-enter, .fade-leave {
+    opacity: 0;
+    visibility: hidden;
+}

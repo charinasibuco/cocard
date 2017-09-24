@@ -1,0 +1,109 @@
+.navbar{
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+}
+.nav-tabs{
+    li{
+        width: auto;
+    }
+}
+.navbar-default{
+    margin-bottom: 0;
+    .navbar-brand{
+        padding: 0;
+        img{
+            padding: 5px;
+            height: 50px;
+            width: auto;
+        }
+    }
+    .navbar-list{
+        padding: 0;
+    }
+}
+.navbar-blue{
+    background-color: $navbar-inverse-bg;
+    color: #fff;
+    z-index: 1000;
+    @media (max-width: 767px){
+        width: 100%;
+        padding: 0 10px;
+    }
+    .navbar-brand-container{
+        float: left;
+        .navbar-brand{
+            img{
+                margin-left:20px;
+            }
+        }
+    }
+    .navbar-right{
+        float: right;
+        display:inline-flex;
+        @media (max-width: 767px){
+            float: none;
+            display: block;
+            padding: 0px 20px;
+        }
+    }
+    .navbar-header{
+        float: left;
+        @media (max-width: 767px){
+            float: none;
+        }
+        .nav-down{
+            &:hover,&:focus{
+                background-color: $navbar-inverse-bg;
+            }
+        }
+    }
+    ul{
+        li{
+            a{
+                color: #fff!important;
+
+            }
+        }
+    }
+    a#menu-toggle {
+        float: left;
+        margin: 15px;
+        font-size: 20px;
+        color: #fff;
+        @if & {
+            &:hover {
+                color: #fff;
+            }
+        } @else {
+            a {
+                color: #fff;
+            }
+
+        }
+    }
+}
+.donation-nav{
+    border-bottom: 1px solid #ddd;
+    li{
+        display: inline-block;
+        &.active{
+            border-bottom: 3px solid #012732;
+            padding: 5px 0;
+        }
+        &:hover,&:focus{
+            border-bottom: 3px solid #012732;
+            padding: 5px 0;
+        }
+        a{
+            &:hover,&:focus{
+                background-color: transparent;
+            }
+        }
+    }
+}
+@media (max-width: 768px) {
+    .side-nav.admin-side-nav {
+        margin-left: calc(-1 * 258px);
+    }
+}

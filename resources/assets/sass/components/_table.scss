@@ -1,0 +1,130 @@
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    @media screen and (max-width:767px){
+        // margin-left:50px;
+        font-size:13px;
+    }
+    thead {
+        background: #ddd;
+    }
+    td, th {
+        text-align: left;
+        padding: 8px;
+        vertical-align:middle;
+        border-top: none;
+    }
+    .theader {
+        color:$btn-primary-bg;
+        border-bottom: none;
+        .p_title{
+            width:30%;
+        }
+    }
+}
+
+.donation-list{
+    tbody{
+        tr{
+            .col1{
+                width:40%;
+            }
+            .col2{
+                width:45%;
+            }
+            .col3{
+                width:15%;
+            }
+            td{
+                vertical-align:middle;
+            }
+        }
+    }
+}
+
+.table-main{
+    border: none;
+    padding:10px;
+    margin-left:5px;
+    margin-top:5px;
+    .norecords{
+        text-align:center;
+        color:#333;
+        font-size:18px
+    }
+    .for-search{
+         @extend .norecords;
+    }
+}
+
+.sub-table{
+    @media screen and (max-width:767px){
+        font-size:13px;
+    }
+}
+.page-table{
+    @media screen and (max-width:767px){
+        margin-left:5px;
+    }
+}
+.norecords{
+    @media screen and (max-width:767px){
+        text-align:center;
+    }
+}
+.permissiontitle{
+    margin-left:20px;
+    margin-top:20px;
+}
+.edit-profile-table{
+    tr{
+       padding:0px;
+    }
+}
+.volunteer-table{
+    margin:30px;
+    table{
+        tr{
+            td{
+                font-size:13pt;
+            }
+        }
+    }
+}
+
+.view-family{
+    margin:30px;
+    table{
+        tr{
+            td:first-child{
+                font-size:15pt;
+            }
+            td:nth-child(2){
+                font-size:15pt;
+            }
+        }
+    }
+}
+
+.profile-table{
+    margin:20px;
+    table{
+        tr{
+            td:first-child{
+                width:30%;
+            }
+        }
+    }
+}
+
+.event-details-table{
+    margin:20px;
+    table{
+        tr{
+            td:first-child{
+                width:50%;
+            }
+        }
+    }
+}

@@ -1,0 +1,293 @@
+0000000000000000000000000000000000000000 8f58eb8eab39b44873a146c656e3618ffec407fb Charina <charina10181990@gmail.com> 1488167949 +0800	clone: from https://csibuco@bitbucket.org/tasprogrammers/cocard-church.git
+8f58eb8eab39b44873a146c656e3618ffec407fb 59e915054713beb3e5f4e0aa76dad0812a59b286 Charina <charina10181990@gmail.com> 1488168170 +0800	checkout: moving from master to dev
+59e915054713beb3e5f4e0aa76dad0812a59b286 abcffe54da972ed0852cfc9192d66df502a1aed6 Charina <charina10181990@gmail.com> 1488169110 +0800	checkout: moving from dev to api
+abcffe54da972ed0852cfc9192d66df502a1aed6 59e915054713beb3e5f4e0aa76dad0812a59b286 Charina <charina10181990@gmail.com> 1488169233 +0800	pull origin dev: Fast-forward
+59e915054713beb3e5f4e0aa76dad0812a59b286 bbe9f50a99764f9548796f4decbb3413cabf0125 Charina <charina10181990@gmail.com> 1488169704 +0800	commit: commit
+bbe9f50a99764f9548796f4decbb3413cabf0125 74757bc29f257ffb12052fd5aad066e314ac61aa Charina <charina10181990@gmail.com> 1488169721 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+74757bc29f257ffb12052fd5aad066e314ac61aa 922124a80f55c0c57774bf30c4e03ffe8284de9a Charina <charina10181990@gmail.com> 1488173650 +0800	commit: commit
+922124a80f55c0c57774bf30c4e03ffe8284de9a a1a6dccb52a92cada11cf222a714dea16c06e208 Charina <charina10181990@gmail.com> 1488182495 +0800	commit (merge): permission_list
+a1a6dccb52a92cada11cf222a714dea16c06e208 96aafc41f822dfdb085859a884490ec4213bd7fe Charina <charina10181990@gmail.com> 1488187615 +0800	commit: u[date on joining event
+96aafc41f822dfdb085859a884490ec4213bd7fe 32c1c304acf4ca353216c1b9770366c620d04b63 Charina <charina10181990@gmail.com> 1488187677 +0800	commit: update on joining event
+32c1c304acf4ca353216c1b9770366c620d04b63 617888dbbbe5068651018b87e49fc616350934e5 Charina <charina10181990@gmail.com> 1488189352 +0800	commit: update on joining event
+617888dbbbe5068651018b87e49fc616350934e5 02f46acf4920763d2fc3d488d96fa4bb32b41fe7 Charina <charina10181990@gmail.com> 1488190398 +0800	commit: update cart
+02f46acf4920763d2fc3d488d96fa4bb32b41fe7 032775ce594b931dcfc70106e8d305d84209e800 Charina <charina10181990@gmail.com> 1488192419 +0800	commit: update on joining event
+032775ce594b931dcfc70106e8d305d84209e800 4132dfbeac8bc855b4974d09b589297a3295b26d Charina <charina10181990@gmail.com> 1488194751 +0800	commit: update on sendng message
+4132dfbeac8bc855b4974d09b589297a3295b26d a259f31fb8d38ca370b60446275f787528c2a6b9 Charina <charina10181990@gmail.com> 1488255306 +0800	commit: update
+a259f31fb8d38ca370b60446275f787528c2a6b9 c56af9cbf911991ea8287e244da55fc8498b3776 Charina <charina10181990@gmail.com> 1488256882 +0800	pull origin dev: Fast-forward
+c56af9cbf911991ea8287e244da55fc8498b3776 e3fb22816512f570ef5cc024fb7403f043f12e97 Charina <charina10181990@gmail.com> 1488280754 +0800	commit: save participants after esuccessfull payment
+e3fb22816512f570ef5cc024fb7403f043f12e97 8a355aa93e58d36abe2909b1dc9b9b45e6db0d76 Charina <charina10181990@gmail.com> 1488281145 +0800	commit: upadate
+8a355aa93e58d36abe2909b1dc9b9b45e6db0d76 4cb7ceed2347b9b5597efe3a1fc47378c75fe5ab Charina <charina10181990@gmail.com> 1488340636 +0800	pull origin dev: Fast-forward
+4cb7ceed2347b9b5597efe3a1fc47378c75fe5ab d78209d8ee631026f088a158a17e8dacf11b028a Charina <charina10181990@gmail.com> 1488451453 +0800	commit: update on saving transaction
+d78209d8ee631026f088a158a17e8dacf11b028a 306a891f13ee025b97b1b42e6ed075d057e8d069 Charina <charina10181990@gmail.com> 1488513985 +0800	pull origin dev: Fast-forward
+306a891f13ee025b97b1b42e6ed075d057e8d069 0b4e90424346910acd4aac1017b3f7aa3323c66a Charina <charina10181990@gmail.com> 1488522205 +0800	commit: fix bugs on display volunteer needed on event pop up and setting of start date and end date of event
+0b4e90424346910acd4aac1017b3f7aa3323c66a e92dfbca5d89ce7d0333737174ac326fe8b960a2 Charina <charina10181990@gmail.com> 1488775733 +0800	commit: change event start end reminder date to AM and PM time, disable invalid date, add warning message on event pop up
+e92dfbca5d89ce7d0333737174ac326fe8b960a2 132c77aa357cfda75faf167428fe8febb9d1e853 Charina <charina10181990@gmail.com> 1488800814 +0800	commit: fix bug upon editing Event on cart
+132c77aa357cfda75faf167428fe8febb9d1e853 9e2a441bed4fb5ab2b9fdf5bdc5f8e4328593b6f Charina <charina10181990@gmail.com> 1488885611 +0800	commit: function for saving donation, transaction, fix bugz
+9e2a441bed4fb5ab2b9fdf5bdc5f8e4328593b6f e07400fa5be96e86ce97c5437f5c8e44e3f06019 Charina <charina10181990@gmail.com> 1489060302 +0800	commit: Functionalities for API
+e07400fa5be96e86ce97c5437f5c8e44e3f06019 5528487738ac1d90ee7834c185947e2b12dbd54d Charina <charina10181990@gmail.com> 1489061726 +0800	commit (merge): fix conclift
+5528487738ac1d90ee7834c185947e2b12dbd54d 158239334eaf53606ae55ae03620d1b1596717e6 Charina <charina10181990@gmail.com> 1489114894 +0800	commit: closing bracket
+158239334eaf53606ae55ae03620d1b1596717e6 7e615b7278a06b24be29846995811bb576fcc7bd Charina <charina10181990@gmail.com> 1489118287 +0800	commit: no return on theme function
+7e615b7278a06b24be29846995811bb576fcc7bd b6a8b5713dfbea8d295c07fe9cf09e1be3d69e80 Charina <charina10181990@gmail.com> 1489127648 +0800	commit: update on reminder date
+b6a8b5713dfbea8d295c07fe9cf09e1be3d69e80 d1c6b2082ba1cd7d4acd8d3e6a06d069f13cf28b Charina <charina10181990@gmail.com> 1489129660 +0800	commit: update on event
+d1c6b2082ba1cd7d4acd8d3e6a06d069f13cf28b bfb625ef52a4fb4822fead52a3943bb45d84d83a Charina <charina10181990@gmail.com> 1489135202 +0800	commit: fix errors on sending message
+bfb625ef52a4fb4822fead52a3943bb45d84d83a aded4e1b250124fe787434952007e112ea9e5622 Charina <charina10181990@gmail.com> 1489135303 +0800	pull origin dev: Fast-forward
+aded4e1b250124fe787434952007e112ea9e5622 119aa95998d556667f5d003bb5939eecda621d99 Charina <charina10181990@gmail.com> 1489142717 +0800	commit: fix errors on event amount based on qty
+119aa95998d556667f5d003bb5939eecda621d99 ffbed1f2564c9dcd2f41832d1922654f5da9f095 Charina <charina10181990@gmail.com> 1489144149 +0800	commit: format date on event
+ffbed1f2564c9dcd2f41832d1922654f5da9f095 9de7c2b43a74bd8ae12689d40f29dee0d43f23af Charina <charina10181990@gmail.com> 1489384601 +0800	commit: update url for api and modify billingcontroller
+9de7c2b43a74bd8ae12689d40f29dee0d43f23af 47eb5cc2f22d3c30121db0cb2d14c01b5ce3b7df Charina <charina10181990@gmail.com> 1489387032 +0800	commit: to push
+47eb5cc2f22d3c30121db0cb2d14c01b5ce3b7df fdb361da4dd9f2e7d35df27d3857d0585775f98f Charina <charina10181990@gmail.com> 1489387135 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+fdb361da4dd9f2e7d35df27d3857d0585775f98f 3ffb7bf091ee18f4e5447a7e5c5e84a9ba3251f0 Charina <charina10181990@gmail.com> 1489387577 +0800	commit: fixed bug on billing
+3ffb7bf091ee18f4e5447a7e5c5e84a9ba3251f0 41fd5f9cb8b5278cf8952a39b405de92e8166402 Charina <charina10181990@gmail.com> 1489402036 +0800	commit: update json on BillingCintroller
+41fd5f9cb8b5278cf8952a39b405de92e8166402 6c469fbd1611f646bdd4b0902590d1f615fc8ccc Charina <charina10181990@gmail.com> 1489402258 +0800	pull origin dev: Fast-forward
+6c469fbd1611f646bdd4b0902590d1f615fc8ccc 549d566bf96f594f75102610a13cfc5009082ecc Charina <charina10181990@gmail.com> 1489470192 +0800	commit: update
+549d566bf96f594f75102610a13cfc5009082ecc 33ecea77b525d43e4178e96017d6031564d47d90 Charina <charina10181990@gmail.com> 1489470452 +0800	commit: update
+33ecea77b525d43e4178e96017d6031564d47d90 2c73ca4794b096e511420466d0066f956a55c940 Charina <charina10181990@gmail.com> 1489649645 +0800	commit: update on forgot and reset password
+2c73ca4794b096e511420466d0066f956a55c940 022b6fe69d9cfdd6ffddb28b14db86aa155cbe7b Charina <charina10181990@gmail.com> 1489654700 +0800	commit: incorrect display of volunteer groups -fixed
+022b6fe69d9cfdd6ffddb28b14db86aa155cbe7b cf2a039e450d341e68fb9189ff0abfd62599ef14 Charina <charina10181990@gmail.com> 1489719079 +0800	commit: update
+cf2a039e450d341e68fb9189ff0abfd62599ef14 07e27fbdb550047210e1b01881f7f3b920d2f07a Charina <charina10181990@gmail.com> 1489991726 +0800	commit: update on email member
+07e27fbdb550047210e1b01881f7f3b920d2f07a 2083adb9f801e746b9b6d515b6e689548f075a97 Charina <charina10181990@gmail.com> 1489992087 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+2083adb9f801e746b9b6d515b6e689548f075a97 546fa092df872d3659c3d5bcae0d09774a72cf72 Charina <charina10181990@gmail.com> 1490090785 +0800	commit: Add search on Email group member by age, gender, marital status
+546fa092df872d3659c3d5bcae0d09774a72cf72 c996c5f29aab4018192a877675ca743aced6689c Charina <charina10181990@gmail.com> 1490160713 +0800	commit: Update on Email Group
+c996c5f29aab4018192a877675ca743aced6689c cf57806732c0198eb137d3485c25c8791aaeb268 Charina <charina10181990@gmail.com> 1490166128 +0800	pull origin dev: Fast-forward
+cf57806732c0198eb137d3485c25c8791aaeb268 11e84e8a8783abe1d12a004b6b251ce1ea63d875 Charina <charina10181990@gmail.com> 1490242481 +0800	commit: update
+11e84e8a8783abe1d12a004b6b251ce1ea63d875 5533438c0ee2a85defc70f22b370d0c3d558c6e1 Charina <charina10181990@gmail.com> 1490242627 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+5533438c0ee2a85defc70f22b370d0c3d558c6e1 0ed789a82925685e98653d747e27d0e40df1a3d7 Charina <charina10181990@gmail.com> 1490243631 +0800	commit: update on transaction
+0ed789a82925685e98653d747e27d0e40df1a3d7 b98cd537410d4e596790eb143db627af7df05187 Charina <charina10181990@gmail.com> 1490243883 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+b98cd537410d4e596790eb143db627af7df05187 865141802f7f89b880b1e7980f352d11d57d5b59 Charina <charina10181990@gmail.com> 1490340954 +0800	commit: Update on DonationRepository, BillingController, routes, result after transaction successfully transact, and pdf view receipt after successful transaction
+865141802f7f89b880b1e7980f352d11d57d5b59 0a798c8c0264a134f4aa0a64ef530f1f26fa828a Charina <charina10181990@gmail.com> 1490341606 +0800	commit (merge): fix conflict on BillingController and DonationRepository
+0a798c8c0264a134f4aa0a64ef530f1f26fa828a 502b6016dbcbeccd42dd7b5b76a6ac500ff72d96 Charina <charina10181990@gmail.com> 1490346244 +0800	commit: add message that transaction was sent to a specific email
+502b6016dbcbeccd42dd7b5b76a6ac500ff72d96 9e49b47008ba0f67666bf4736abd03893ba63f6d Charina <charina10181990@gmail.com> 1490702459 +0800	commit: display and receipt print for client for event and donations
+9e49b47008ba0f67666bf4736abd03893ba63f6d e1e7c41561333a1bab07c5d6ac4b1c6ab1fb2ffa Charina <charina10181990@gmail.com> 1490782876 +0800	commit: edit email format after successful donate or event
+e1e7c41561333a1bab07c5d6ac4b1c6ab1fb2ffa ffa4affa6e23ac58c3db30afa55119d29a27b190 Charina <charina10181990@gmail.com> 1490854493 +0800	commit: edit search by age, marital status and gender on email group
+ffa4affa6e23ac58c3db30afa55119d29a27b190 af3a09361039f0ba3a6e727eeac92189177dbf19 Charina <charina10181990@gmail.com> 1490854651 +0800	commit: update
+af3a09361039f0ba3a6e727eeac92189177dbf19 75ac1502e6debdd3d6d87b82a31b912aebadb0f1 Charina <charina10181990@gmail.com> 1490855584 +0800	pull origin dev: Fast-forward
+75ac1502e6debdd3d6d87b82a31b912aebadb0f1 4979caad175601a58de495f252dd9b7e8ff476da Charina <charina10181990@gmail.com> 1490867507 +0800	commit: update on Email Group
+4979caad175601a58de495f252dd9b7e8ff476da 3768bacfa5b1ae2718b4e04e80f8a7bf14ac6349 Charina <charina10181990@gmail.com> 1490941618 +0800	pull origin dev: Fast-forward
+3768bacfa5b1ae2718b4e04e80f8a7bf14ac6349 62c785bb4e71c9bb5d115ee977052ff0ab1b144c Charina <charina10181990@gmail.com> 1491194929 +0800	commit: Fix bug based on docx
+62c785bb4e71c9bb5d115ee977052ff0ab1b144c 665c02205e6b322e3325f98716370ed4b06535c4 Charina <charina10181990@gmail.com> 1491195201 +0800	pull origin dev: Fast-forward
+665c02205e6b322e3325f98716370ed4b06535c4 a6c9e7f845ce0979337bb0886915a97be2ab97e7 Charina <charina10181990@gmail.com> 1491299382 +0800	commit: update on cart
+a6c9e7f845ce0979337bb0886915a97be2ab97e7 42ea6418dc5bdf09f44ff55fd6b80e016efd2bc3 Charina <charina10181990@gmail.com> 1491300016 +0800	pull origin dev: Fast-forward
+42ea6418dc5bdf09f44ff55fd6b80e016efd2bc3 edb858376503ef25dc165e945c76ea7195ff1011 Charina <charina10181990@gmail.com> 1491365050 +0800	commit: fix error
+edb858376503ef25dc165e945c76ea7195ff1011 49e3500d95dba8df395a5db9fdaa726cf067f92f Charina <charina10181990@gmail.com> 1491560712 +0800	commit: •Sort by group with “Type” as the group header so the “Type” column isn’t needed anymore, oIf a group doesn’t have anything in it it shouldn’t show up as a group in the cart,oSubtotal for groups
+49e3500d95dba8df395a5db9fdaa726cf067f92f 59eac13725796c7e985ebd7ebdc10236a8cf6378 Charina <charina10181990@gmail.com> 1491909152 +0800	commit: categorize item by type after successfully process the transaction
+59eac13725796c7e985ebd7ebdc10236a8cf6378 89c833dfe8edeb404af5737300c437b6a6c51b1c Charina <charina10181990@gmail.com> 1491970966 +0800	commit (merge): fix conflict on pop up cart
+89c833dfe8edeb404af5737300c437b6a6c51b1c 57a71dce0dd1481f4f5746d3ab09099e0f2d4c83 Charina <charina10181990@gmail.com> 1492420411 +0800	commit: update receipt and email result for transaction
+57a71dce0dd1481f4f5746d3ab09099e0f2d4c83 1cef409b50250f407a02b65ba0998b6e4914ee67 Charina <charina10181990@gmail.com> 1492498061 +0800	commit: Fix pdf receipt depending on count of event and donation transaction
+1cef409b50250f407a02b65ba0998b6e4914ee67 6e43cb2159180c933c480405db3be046228666e9 Charina <charina10181990@gmail.com> 1492590225 +0800	commit: datetimpicker start date, reminder date, end date
+6e43cb2159180c933c480405db3be046228666e9 87ae4584d7f7b4bf543607d87b05491727ab7509 Charina <charina10181990@gmail.com> 1493025566 +0800	commit: fix bug on event start date, end date and reminder date
+87ae4584d7f7b4bf543607d87b05491727ab7509 5d2a27fa19a2c743b771e0f8ee69fce504a5269a Charina <charina10181990@gmail.com> 1493193355 +0800	commit: create option for successful transaction(print, send email or both)
+5d2a27fa19a2c743b771e0f8ee69fce504a5269a 6860982568a799811fa29e21a6a80984bd6c5726 Charina <charina10181990@gmail.com> 1493194210 +0800	commit: Role in adding Role the Title and the Description should be required field
+6860982568a799811fa29e21a6a80984bd6c5726 e1c550d8dba644d14448b82210323c86cdc445b4 Charina <charina10181990@gmail.com> 1493195425 +0800	commit: remove success message on result
+e1c550d8dba644d14448b82210323c86cdc445b4 c8f4ce34ae0930553eea7021b7910c18859a0a08 Charina <charina10181990@gmail.com> 1493406248 +0800	commit: fixed bug on zero total amount of transaction
+c8f4ce34ae0930553eea7021b7910c18859a0a08 79f1ea88f17810345d506eeaf6f081e19260145c Charina <charina10181990@gmail.com> 1493438266 +0800	commit: fix on transaction pdf, result, email bugs
+79f1ea88f17810345d506eeaf6f081e19260145c 88d1226f53c260ccc6c4320371b3ad8d09849f38 Charina <charina10181990@gmail.com> 1493441412 +0800	commit (merge): fixed conflict on Volunteer, event_modal_content, and cart modal
+88d1226f53c260ccc6c4320371b3ad8d09849f38 beb710a57ee2b63e20b844ae5260a480bf3a418f Charina <charina10181990@gmail.com> 1493441622 +0800	commit: update on billing
+beb710a57ee2b63e20b844ae5260a480bf3a418f 42c7a1f205940a0f0d1c55bc9ee149dde9d0e8b3 Charina <charina10181990@gmail.com> 1493454218 +0800	commit: fix bug on pop up modal, add timezone to superadmin
+42c7a1f205940a0f0d1c55bc9ee149dde9d0e8b3 011a0f97e6989877abb340297fee6eb543805191 Charina <charina10181990@gmail.com> 1493524961 +0800	commit: create a Helper for timezone and update event blades
+011a0f97e6989877abb340297fee6eb543805191 069d0bf18965cbe1560867f46b1d737bf31463ee Charina <charina10181990@gmail.com> 1493525209 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+069d0bf18965cbe1560867f46b1d737bf31463ee 0c0d7e53afb8eddd96b06441f928f63a5bc3405c Charina <charina10181990@gmail.com> 1493711135 +0800	commit: save dates(start date, end date, reminder date) to datbase based on utc, retreieve dates based on user utc
+0c0d7e53afb8eddd96b06441f928f63a5bc3405c 0183ed1295f662c781a570c30a151dfd8201e77f Charina <charina10181990@gmail.com> 1493711883 +0800	commit: fix conflict
+0183ed1295f662c781a570c30a151dfd8201e77f 1edaae122514f035acb12b01633496588935267b Charina <charina10181990@gmail.com> 1493712635 +0800	commit (merge): fix conflict
+1edaae122514f035acb12b01633496588935267b d40fa151a64b6416876116955c71e8129dda9128 Charina <charina10181990@gmail.com> 1493722223 +0800	commit: set admin and superadmin log based on timezone, fixed bug on guest upon saving transaction
+d40fa151a64b6416876116955c71e8129dda9128 3d31fee191a545fd6efade27c515558a476cf2c9 Charina <charina10181990@gmail.com> 1493796553 +0800	commit: fixed bug on volunteer(cannot apply multiple event as volunteer) by new migration, timezone display base on user on My Donation, My Events and My Volunteer tab
+3d31fee191a545fd6efade27c515558a476cf2c9 1477ef6563311597dfca5813689a7c7db4b9c4c0 Charina <charina10181990@gmail.com> 1493796941 +0800	commit (merge): fixed conflict on event
+1477ef6563311597dfca5813689a7c7db4b9c4c0 e6415abd2821afb402dab9184634a5b1349ad5b0 Charina <charina10181990@gmail.com> 1493805677 +0800	commit: fix bug on donation email
+e6415abd2821afb402dab9184634a5b1349ad5b0 056611b076e7d6d7860d9ec1260995894ffca64f Charina <charina10181990@gmail.com> 1493808592 +0800	commit: fixed bug on pdf and email
+056611b076e7d6d7860d9ec1260995894ffca64f 3eb325bde0633831889b4dbbc89c7fa841157b6b Charina <charina10181990@gmail.com> 1493809223 +0800	commit: fixed bug on time
+3eb325bde0633831889b4dbbc89c7fa841157b6b 39c2031dca61b8eb69e8490a795f0797a7ae494e Charina <charina10181990@gmail.com> 1493810469 +0800	commit: fix pagination issue on donation and time in event
+39c2031dca61b8eb69e8490a795f0797a7ae494e 88762fb4c6eb26dbaba7f313dc553ac146ed0d55 Charina <charina10181990@gmail.com> 1493812872 +0800	commit: fixed bug on My Donation List view of empty field
+88762fb4c6eb26dbaba7f313dc553ac146ed0d55 e133817e3efecdf0c68c1eb835dc66fbcd71c2d1 Charina <charina10181990@gmail.com> 1493817830 +0800	commit: fixed
+e133817e3efecdf0c68c1eb835dc66fbcd71c2d1 1955e7b2ef372f00fe12a238cc3c6042879e2229 Charina <charina10181990@gmail.com> 1493823213 +0800	commit: check event
+1955e7b2ef372f00fe12a238cc3c6042879e2229 780d57a704d60cbb1a647c8f2910bd68c9759a6d Charina <charina10181990@gmail.com> 1493823605 +0800	commit: check event
+780d57a704d60cbb1a647c8f2910bd68c9759a6d d19b70808676835d50cc967dba4378016cd6bd19 Charina <charina10181990@gmail.com> 1493871752 +0800	commit: update volunteer list
+d19b70808676835d50cc967dba4378016cd6bd19 a7e3e158ee1017990c07b30b0f48afcf07f2213a Charina <charina10181990@gmail.com> 1493871986 +0800	commit: update volunteer list
+a7e3e158ee1017990c07b30b0f48afcf07f2213a bab9ae0046d8d43102031ebb908b2eea97e86f2d Charina <charina10181990@gmail.com> 1493873446 +0800	commit: update volunteer list
+bab9ae0046d8d43102031ebb908b2eea97e86f2d b32b8b9850a8fc4cccb40207e05e165edb524ded Charina <charina10181990@gmail.com> 1493873838 +0800	commit: update volunteer list
+b32b8b9850a8fc4cccb40207e05e165edb524ded 4147820daf9281637f2ca11c95830b62df890e66 Charina <charina10181990@gmail.com> 1493874128 +0800	commit: update volunteer list
+4147820daf9281637f2ca11c95830b62df890e66 2222c8f94878a5480f84b1458cfc757c028d146c Charina <charina10181990@gmail.com> 1493882674 +0800	commit: fix bug on Volunteer List on Delete Volunteer group
+2222c8f94878a5480f84b1458cfc757c028d146c 4fc99d570f136cb2278a9c87aeef4ed10c65e229 Charina <charina10181990@gmail.com> 1493883885 +0800	commit: fix bug Volunteer List timezone
+4fc99d570f136cb2278a9c87aeef4ed10c65e229 58a2c6e561b8e935e5fb905d5502954ef5ede7d5 Charina <charina10181990@gmail.com> 1493886802 +0800	pull origin dev: Fast-forward
+58a2c6e561b8e935e5fb905d5502954ef5ede7d5 d652aa924eada5611470df85bfb3cb1d8881073d Charina <charina10181990@gmail.com> 1493969546 +0800	commit: fixed bug on Volunteer List, Reminder button, Send Email button, bug on Volunteers Email per Volunteer Group
+d652aa924eada5611470df85bfb3cb1d8881073d 8b7488c3f01a5f4d34fc1661618b9223970100bd Charina <charina10181990@gmail.com> 1493969973 +0800	commit (merge): fixed bug on Volunteer List, Reminder button, Send Email button, bug on Volunteers Email per Volunteer Group and search Volunteer per event bug
+8b7488c3f01a5f4d34fc1661618b9223970100bd 1db8f7f8092d6c5aa3a6e5efd228712caddc5451 Charina <charina10181990@gmail.com> 1493972196 +0800	commit: add pagination on Volunteer Group List
+1db8f7f8092d6c5aa3a6e5efd228712caddc5451 4889a2fa6476a85b6a02b30e8a414d527ef29254 Charina <charina10181990@gmail.com> 1493990140 +0800	commit: message if event started or ended on user event modal
+4889a2fa6476a85b6a02b30e8a414d527ef29254 b49a9aca66de3ff59dcd22113f7f1bbc58507045 Charina <charina10181990@gmail.com> 1493990500 +0800	commit: message if event started or ended on user event modal
+b49a9aca66de3ff59dcd22113f7f1bbc58507045 5e46b7bdb278facb91bf8050867840d6e0da6e03 Charina <charina10181990@gmail.com> 1494302346 +0800	commit: edit on Billing, results, event_modal_content
+5e46b7bdb278facb91bf8050867840d6e0da6e03 903c7698dfb2e0fc6b7a4bb718b3ae3efcc018ac Charina <charina10181990@gmail.com> 1494302554 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+903c7698dfb2e0fc6b7a4bb718b3ae3efcc018ac 000da5f4f6bcd95f7e29128ee89a19410dac9f1b Charina <charina10181990@gmail.com> 1494396136 +0800	commit: add gate to event controller
+000da5f4f6bcd95f7e29128ee89a19410dac9f1b 7ecae467d6a23f1c8d3a9b69e5cd3224d868f6da Charina <charina10181990@gmail.com> 1494406401 +0800	commit: add gate to event, family, role, staff, volunteer controller
+7ecae467d6a23f1c8d3a9b69e5cd3224d868f6da 51f6797d8d3e01b9d1d1095951cfa95836163e2e Charina <charina10181990@gmail.com> 1494438661 +0800	commit: empty reminder if not selected date
+51f6797d8d3e01b9d1d1095951cfa95836163e2e 769ae1ee854d7a7f194b2f8a7768aa3b81d595fa Charina <charina10181990@gmail.com> 1494473484 +0800	commit: update
+769ae1ee854d7a7f194b2f8a7768aa3b81d595fa cf94a8b8b61bbadf1292e4e87209aa5d46e7e625 Charina <charina10181990@gmail.com> 1494473782 +0800	commit (merge): empty field on reminder event
+cf94a8b8b61bbadf1292e4e87209aa5d46e7e625 d8d176032705c49868d7976e0148b8d5df54a355 Charina <charina10181990@gmail.com> 1494474141 +0800	commit: empty field on reminder event
+d8d176032705c49868d7976e0148b8d5df54a355 6346452d06b914d6aa972d7b201ff957bb090e97 Charina <charina10181990@gmail.com> 1494479269 +0800	commit: birthdate on search
+6346452d06b914d6aa972d7b201ff957bb090e97 ad13c7263e07ffd90be14aa89906c9188f1e707c Charina <charina10181990@gmail.com> 1494482109 +0800	commit: fix bug on email group and email group member
+ad13c7263e07ffd90be14aa89906c9188f1e707c 38627bd9f5df82bf14e7b5304e2799ea3a700e7d Charina <charina10181990@gmail.com> 1494485123 +0800	pull origin dev: Fast-forward
+38627bd9f5df82bf14e7b5304e2799ea3a700e7d 1871922beabc0751b4a2b652d4e4838778806f4e Charina <charina10181990@gmail.com> 1494564946 +0800	commit: Fixed bug on, Cart, Transaction Summary, Email Transaction and, PDF transaction
+1871922beabc0751b4a2b652d4e4838778806f4e 58a39a01926e8ac5eecc83e48baf003a123959c2 Charina <charina10181990@gmail.com> 1494822009 +0800	pull origin dev: Fast-forward
+58a39a01926e8ac5eecc83e48baf003a123959c2 23478799c1950712e7204eb742fd1736d29911bc Charina <charina10181990@gmail.com> 1494947662 +0800	commit: fixed bug on Edit Event and bug on excel export on donation
+23478799c1950712e7204eb742fd1736d29911bc edbd0b9e214f73f6725e95c4110e3d3ae40b0b10 Charina <charina10181990@gmail.com> 1494947925 +0800	commit: fixed bug on Edit Event and bug on excel export on donation
+edbd0b9e214f73f6725e95c4110e3d3ae40b0b10 e100fa3f505818a2be28ac971e95a8e4bd421e3a Charina <charina10181990@gmail.com> 1494948343 +0800	commit (merge): fixed bug on Edit Event and bug on excel export on donation
+e100fa3f505818a2be28ac971e95a8e4bd421e3a ac859012807d16087929c2df8dd85410152b32ca Charina <charina10181990@gmail.com> 1495007294 +0800	commit: fix bug on start date
+ac859012807d16087929c2df8dd85410152b32ca 18add620517bb902d8e58f04e9d497a00f64e1c8 Charina <charina10181990@gmail.com> 1495007731 +0800	commit: fixed bug on start date
+18add620517bb902d8e58f04e9d497a00f64e1c8 65d0446f1e0f021474d72cf1aa66056657bc3901 Charina <charina10181990@gmail.com> 1495448355 +0800	commit: donation export, event export, bug on event reminder date
+65d0446f1e0f021474d72cf1aa66056657bc3901 283330c33a6da067e583757bc25ed032d4c3aef9 Charina <charina10181990@gmail.com> 1495450230 +0800	commit (merge): fix conflict
+283330c33a6da067e583757bc25ed032d4c3aef9 08739ec439e3b67e8e017fb4966f9dd6bd0f45dc Charina <charina10181990@gmail.com> 1495450683 +0800	pull origin dev: Fast-forward
+08739ec439e3b67e8e017fb4966f9dd6bd0f45dc 34b43dc67114f448691f05933008b8a5e3f99b61 Charina <charina10181990@gmail.com> 1495457720 +0800	commit: volunteer export timezone
+34b43dc67114f448691f05933008b8a5e3f99b61 3bd6dfa85570ddd21a2524db4350b3d32a055b44 Charina <charina10181990@gmail.com> 1495468048 +0800	commit: timezone for Volunteers Report
+3bd6dfa85570ddd21a2524db4350b3d32a055b44 69d460bd5381321fa0ad9c3a59a0847ee71df620 Charina <charina10181990@gmail.com> 1495520820 +0800	pull origin dev: Fast-forward
+69d460bd5381321fa0ad9c3a59a0847ee71df620 d80c967ed3449d6fa950c1b9c58391213e864936 Charina <charina10181990@gmail.com> 1495615013 +0800	commit: on add/edit data disappear
+d80c967ed3449d6fa950c1b9c58391213e864936 15253f5883342103d7e7cedcc035477266620199 Charina <charina10181990@gmail.com> 1495617520 +0800	pull origin dev: Fast-forward
+15253f5883342103d7e7cedcc035477266620199 ac7910f2201c1905fc9ad604bb79d2d42b1142ef Charina <charina10181990@gmail.com> 1495619604 +0800	pull origin dev: Fast-forward
+ac7910f2201c1905fc9ad604bb79d2d42b1142ef 07c908eaf49c6f0472195dd0d897acff1a3550f6 Charina <charina10181990@gmail.com> 1495620770 +0800	pull origin dev: Fast-forward
+07c908eaf49c6f0472195dd0d897acff1a3550f6 b5df4603c5b9ef65ad2071ca8203d784e741ab02 Charina <charina10181990@gmail.com> 1495980184 +0800	commit: fix bugs on pages, add, edit,delete,
+b5df4603c5b9ef65ad2071ca8203d784e741ab02 853e46ead20521b0d6058e66aa29e860fb56d7d7 Charina <charina10181990@gmail.com> 1496024780 +0800	commit: fix bugs on pages, add, edit,delete,
+853e46ead20521b0d6058e66aa29e860fb56d7d7 762427a01f55a0a7034f389f9184a044ad4a29fa Charina <charina10181990@gmail.com> 1496048052 +0800	commit: fix bugs on pages, add, edit,delete,
+762427a01f55a0a7034f389f9184a044ad4a29fa 3cbafef23bb98a3b1cfd716ecbd22b1752d2b0bb Charina <charina10181990@gmail.com> 1496058614 +0800	commit: church goer, volunteer and event form visibility
+3cbafef23bb98a3b1cfd716ecbd22b1752d2b0bb 59e915054713beb3e5f4e0aa76dad0812a59b286 Charina <charina10181990@gmail.com> 1496058690 +0800	checkout: moving from api to dev
+59e915054713beb3e5f4e0aa76dad0812a59b286 3cbafef23bb98a3b1cfd716ecbd22b1752d2b0bb Charina <charina10181990@gmail.com> 1496059280 +0800	checkout: moving from dev to api
+3cbafef23bb98a3b1cfd716ecbd22b1752d2b0bb beec09e3475ff14a95ea4621ef28fb300255bd54 Charina <charina10181990@gmail.com> 1496130726 +0800	commit: Transaction time (next to the transaction date), Please remove:Code (this doesn't mean anything to the customer)Please correct:start date,end date,put a $ sign in front of the transaction amount,if a recurring transaction - include number of occurrences,if a recurring transaction - include frequency (weekly, monthly, etc.)
+beec09e3475ff14a95ea4621ef28fb300255bd54 de4c7118cc20cab2cd4da68a4d7ed3846a099cb9 Charina <charina10181990@gmail.com> 1496221214 +0800	commit: fix bug on Page upon update child pages and parent pages
+de4c7118cc20cab2cd4da68a4d7ed3846a099cb9 ac95540bd1577faabaa03c2498d50793492c275c Charina <charina10181990@gmail.com> 1496221998 +0800	pull origin dev: Fast-forward
+ac95540bd1577faabaa03c2498d50793492c275c e8a52f6443ddb7f5ea62d0e21d89c29e0962de72 Charina <charina10181990@gmail.com> 1496252199 +0800	commit: fix bug on Volunteer and Pages
+e8a52f6443ddb7f5ea62d0e21d89c29e0962de72 0a75ebe4614b23b0be9f94910f0e64fca7aea716 Charina <charina10181990@gmail.com> 1496284453 +0800	commit: volunteer listing and bug on pages
+0a75ebe4614b23b0be9f94910f0e64fca7aea716 fef2060067695055641d81032ac2b07fa400aad1 Charina <charina10181990@gmail.com> 1496298143 +0800	commit: Volunteer add field start date and end date, needed field
+fef2060067695055641d81032ac2b07fa400aad1 77aef5ffe9fab96a03f1cf94438a14fea7406a2e Charina <charina10181990@gmail.com> 1496301933 +0800	commit: fixed bug on Volunteer Goup dropdown, Add Authorization Code to transaction
+77aef5ffe9fab96a03f1cf94438a14fea7406a2e 91269c806dcfc9ed505f9be7deb20ba89a9d8a7b Charina <charina10181990@gmail.com> 1496303180 +0800	commit: fixed Volunteer Group
+91269c806dcfc9ed505f9be7deb20ba89a9d8a7b 448dfbb26f91356c32e8676693133ff91f236cd4 Charina <charina10181990@gmail.com> 1496404356 +0800	commit: edit on start date ens date, event frequency on trasaction report, pdf and email
+448dfbb26f91356c32e8676693133ff91f236cd4 369c7603bc6ebff5d48497e91f5bf6cdb0aa89a3 Charina <charina10181990@gmail.com> 1496405463 +0800	commit: fix bug on donation recurring on email transaction
+369c7603bc6ebff5d48497e91f5bf6cdb0aa89a3 9f53aebe6d85bbc39a916854c2f105c8ab515def Charina <charina10181990@gmail.com> 1496406010 +0800	pull origin dev: Fast-forward
+9f53aebe6d85bbc39a916854c2f105c8ab515def b253e5ab25f12ecd64506cd80d1f9a19ae6a5250 Charina <charina10181990@gmail.com> 1496806778 +0800	commit: fixed date of recurring on transaction result, PDF, Email, and recurring with total amount zero on transaction, result, PDF, Email
+b253e5ab25f12ecd64506cd80d1f9a19ae6a5250 cbfdb25f54c2d52b5189bc498d85c4a69887401a Charina <charina10181990@gmail.com> 1496807307 +0800	commit (merge): fixed conflict
+cbfdb25f54c2d52b5189bc498d85c4a69887401a ac451be3c88940e550e465429a6c829740b398dd Charina <charina10181990@gmail.com> 1496809265 +0800	commit: fixed display on Zero transactionPDF and Email
+ac451be3c88940e550e465429a6c829740b398dd 4e3c5faffcea363e25564a6d6c5e1da538c8a522 Charina <charina10181990@gmail.com> 1496893587 +0800	commit: add start date and end date field in Volunteer Group, update add Event with Volunteer and edit Event with Volunteer
+4e3c5faffcea363e25564a6d6c5e1da538c8a522 62052434ff81e3856f199a9ca0b26baf9b8fbeb9 Charina <charina10181990@gmail.com> 1496902660 +0800	commit: fix bug on Volunteer Group
+62052434ff81e3856f199a9ca0b26baf9b8fbeb9 c79562d72332c1a01ba0f3cf4366dff4b825c039 Charina <charina10181990@gmail.com> 1496908539 +0800	commit: fix bug on Volunteer Group
+c79562d72332c1a01ba0f3cf4366dff4b825c039 8c3c0f06259a29cc1b40c7021b461d9dae79d867 Charina <charina10181990@gmail.com> 1496909021 +0800	commit: fix bug on Volunteer Group
+8c3c0f06259a29cc1b40c7021b461d9dae79d867 0f3e6efd23a7d8c8967e83c5ecd2e0f1a1ef3774 Charina <charina10181990@gmail.com> 1496925700 +0800	commit: fix on VolunteerGroup
+0f3e6efd23a7d8c8967e83c5ecd2e0f1a1ef3774 d4b4349be2b9423fb8571f012aecca4e6746f2d0 Charina <charina10181990@gmail.com> 1496987221 +0800	commit: fixed bug on volunteer group list and adding volunteer
+d4b4349be2b9423fb8571f012aecca4e6746f2d0 4088cd62d55c2b4434941412b10a35beef45ed92 Charina <charina10181990@gmail.com> 1496993688 +0800	commit: Church Goer correct formatting of date and time, add End Date column
+4088cd62d55c2b4434941412b10a35beef45ed92 6a584543691ce78dbcaa9385b5d454e281c10aac Charina <charina10181990@gmail.com> 1497030308 +0800	commit: fix bug on Volunteer Group
+6a584543691ce78dbcaa9385b5d454e281c10aac 87275135555a22832b8f264d0046422e68efc007 Charina <charina10181990@gmail.com> 1497061645 +0800	pull origin dev: Fast-forward
+87275135555a22832b8f264d0046422e68efc007 ba7cb2d18bd82736325533d9f09d4d567cab2b22 Charina <charina10181990@gmail.com> 1497452798 +0800	commit: update on Vplunteer Group
+ba7cb2d18bd82736325533d9f09d4d567cab2b22 1a8d36e4852a8f67c80550c5854a06695947ca80 Charina <charina10181990@gmail.com> 1497513686 +0800	commit: update on Volunteer Group
+1a8d36e4852a8f67c80550c5854a06695947ca80 dbe334be04e2f39b377d80dc3ad07ace76aaa04d Charina <charina10181990@gmail.com> 1497597386 +0800	commit: update Repositories, Controllers, blade affected by volunteers and events
+dbe334be04e2f39b377d80dc3ad07ace76aaa04d fd3d404e5887a1f35ee81142ca96dfa584888ac6 Charina <charina10181990@gmail.com> 1498105789 +0800	commit: Volunteer Group Admin for Single and Recurring add edit function, for weekly, monthly, yearly, Updated Event Repository, Event Controller, 2 forms for adding event, voulunteer group items blade, modal for pop up event details with volunteer group
+fd3d404e5887a1f35ee81142ca96dfa584888ac6 a9d6c7666c3f9d9e32dad95c6ca32cb9f33b9cdc Charina <charina10181990@gmail.com> 1498105938 +0800	commit: update on EventController
+a9d6c7666c3f9d9e32dad95c6ca32cb9f33b9cdc c54fc1bb1e192085942ca6096d2ea9f4b12c79cd Charina <charina10181990@gmail.com> 1498145193 +0800	commit: Change Volunteer Group list view as per volunteer group on apply, change modal to per volunteer, update validations
+c54fc1bb1e192085942ca6096d2ea9f4b12c79cd ddd7e0d431cb86f3556d4bab1a9f74d71d9876e5 Charina <charina10181990@gmail.com> 1498146085 +0800	commit (merge): fixed conflicts
+ddd7e0d431cb86f3556d4bab1a9f74d71d9876e5 ad88b5b55059ab4f1ef3fabd40d206b008434e86 Charina <charina10181990@gmail.com> 1498187521 +0800	commit: create recurring start date and end date to event column on volunteer group user
+ad88b5b55059ab4f1ef3fabd40d206b008434e86 b32b3266d195421a7876e0d35e22005e586d31c1 Charina <charina10181990@gmail.com> 1498219507 +0800	commit: fixed date of event on Volunteer group list and modal on click user side
+b32b3266d195421a7876e0d35e22005e586d31c1 f08134cb02d1c46fdd0a92b78165ef77cb3eec1d Charina <charina10181990@gmail.com> 1498221901 +0800	commit: filter volunteer group to equal or greater that today and limit to active volunteer group only
+f08134cb02d1c46fdd0a92b78165ef77cb3eec1d 907c5d80605c3c81800d7e5283294b577c305b11 Charina <charina10181990@gmail.com> 1498224081 +0800	commit: css
+907c5d80605c3c81800d7e5283294b577c305b11 7fc61b243d67cf4f041a2e872612c044b65cd76b Charina <charina10181990@gmail.com> 1498290941 +0800	commit: add filter of volunteer group per event and added pagination
+7fc61b243d67cf4f041a2e872612c044b65cd76b 2aa2473b347ab60bfb1af650cc86b384152e49d4 Charina <charina10181990@gmail.com> 1498336556 +0800	commit: add pending column and add email on approved and reject applying for a Volunteer Group
+2aa2473b347ab60bfb1af650cc86b384152e49d4 05d266efb53f19a3f74310bed15dc1339e44fb64 Charina <charina10181990@gmail.com> 1498371292 +0800	commit: fix modal of Volunteering on Guest side, add validation for Volunteering
+05d266efb53f19a3f74310bed15dc1339e44fb64 0e1d03cd1f4d160ec0e1f7fd3ff470e1b9570c88 Charina <charina10181990@gmail.com> 1498542266 +0800	pull origin dev: Fast-forward
+0e1d03cd1f4d160ec0e1f7fd3ff470e1b9570c88 dc73bc7fb27ab593c0458b132f0d689829a4b7bb Charina <charina10181990@gmail.com> 1498561041 +0800	commit: filter volunteer group to needVolunteer only, and fixed error on user Volunter spot
+dc73bc7fb27ab593c0458b132f0d689829a4b7bb 51f3e55fcce8388ba56a8eba331f0e8efced86f9 Charina <charina10181990@gmail.com> 1498578248 +0800	commit: fix pagination for Volunteer Group List in Admin
+51f3e55fcce8388ba56a8eba331f0e8efced86f9 3f7c68548bc00abab9c7af72f5b2e20be98f0d53 Charina <charina10181990@gmail.com> 1498580177 +0800	commit: User My spot Volunteer fix error and fix dates on start date and end date
+3f7c68548bc00abab9c7af72f5b2e20be98f0d53 138ea20616c46426cae59d8a4b47e5e439c2999b Charina <charina10181990@gmail.com> 1498621332 +0800	pull origin dev: Fast-forward
+138ea20616c46426cae59d8a4b47e5e439c2999b 9967ecd83d6c282b89c7be84049aa7d271a355e3 Charina <charina10181990@gmail.com> 1498631040 +0800	commit: fixed on delete vg
+9967ecd83d6c282b89c7be84049aa7d271a355e3 50e2871b936af3c78a1daf2ff7b492f555d4e71e Charina <charina10181990@gmail.com> 1498636667 +0800	commit: fixed on delete vg
+50e2871b936af3c78a1daf2ff7b492f555d4e71e ba986209838a3342c01f038050d64064b3baef55 Charina <charina10181990@gmail.com> 1498636902 +0800	commit: fixed on delete vg
+ba986209838a3342c01f038050d64064b3baef55 dabe11ac08963f1bbaf4399e0f28df283dc78279 Charina <charina10181990@gmail.com> 1498711142 +0800	commit: Fixed the following Guest 1.There is no BACK button in Volunteer Page, 2.There is no mouse pointer when selecting on the volunteer to apply,Church-Goer 1.There is no mouse pointer when selecting on the volunteer to apply, 2.Error when Clicking My Volunteer Spots,1.When deleting recurring event if the user selected “this event only” the volunteer groups in other occurrences are also deleted.Duplicate Event - The Start date and End date is not in user timezone, Send message to event participants not working
+dabe11ac08963f1bbaf4399e0f28df283dc78279 10afa28a2ce831cabdb97b568216b0a2900f3ee4 Charina <charina10181990@gmail.com> 1498711772 +0800	commit (merge): fixed conflict on add event form
+10afa28a2ce831cabdb97b568216b0a2900f3ee4 b87a4dcaf2723d17bc865c087a7cc44a40270415 Charina <charina10181990@gmail.com> 1498717752 +0800	commit: fix bug on volunteer group
+b87a4dcaf2723d17bc865c087a7cc44a40270415 15e1c1454dbb43c0e2d6e1c763464e4e4e23c0f6 Charina <charina10181990@gmail.com> 1498721941 +0800	commit: same name and email not accepted on volunteering
+15e1c1454dbb43c0e2d6e1c763464e4e4e23c0f6 d5f1a78b57601ee0d19e3a03beb88eecfe1e6be4 Charina <charina10181990@gmail.com> 1498786230 +0800	commit: fix vg bug
+d5f1a78b57601ee0d19e3a03beb88eecfe1e6be4 9c659806d82f5b78c95e0f56e3297df67a53c96b Charina <charina10181990@gmail.com> 1498786634 +0800	commit (merge): fix confict
+9c659806d82f5b78c95e0f56e3297df67a53c96b e4d9b5556ee1a25c083e666dfbfcc4897a9fd6df Charina <charina10181990@gmail.com> 1498801732 +0800	commit: send message on Volunteer group
+e4d9b5556ee1a25c083e666dfbfcc4897a9fd6df 6428cfaafe44cf3c241a80bb3c060e2b92c82441 Charina <charina10181990@gmail.com> 1498804519 +0800	commit: fix error on sending email on log
+6428cfaafe44cf3c241a80bb3c060e2b92c82441 3ee2c5901186a337c95e1af2475f7593d37a7ef7 Charina <charina10181990@gmail.com> 1498812561 +0800	commit: fix VG on edit event
+3ee2c5901186a337c95e1af2475f7593d37a7ef7 dfbe588817020d34ec104001c0f9271ed1422681 Charina <charina10181990@gmail.com> 1498812813 +0800	pull origin dev: Fast-forward
+dfbe588817020d34ec104001c0f9271ed1422681 7e3ee43c8593bac5c1a15ea3bf79d8e7812f1d78 Charina <charina10181990@gmail.com> 1499223275 +0800	commit: fix Single Event Recurring, add edit delete
+7e3ee43c8593bac5c1a15ea3bf79d8e7812f1d78 5b007bd7aba30bd9f5d0c3e482d0adfd31002434 Charina <charina10181990@gmail.com> 1499224433 +0800	commit (merge): fix conflict
+5b007bd7aba30bd9f5d0c3e482d0adfd31002434 0b7718bd5b34bab985b3d2ff8ce8eea34c9e94ae Charina <charina10181990@gmail.com> 1499227675 +0800	commit: fix on vg
+0b7718bd5b34bab985b3d2ff8ce8eea34c9e94ae 2bc02c2e8b695dba861d6c3afedbbfd3a0e4a91c Charina <charina10181990@gmail.com> 1499234621 +0800	commit: Update add event pop up
+2bc02c2e8b695dba861d6c3afedbbfd3a0e4a91c 03fc8e531276dd20a065042b6d6ebe10c293aff6 Charina <charina10181990@gmail.com> 1499245817 +0800	commit: login check return
+03fc8e531276dd20a065042b6d6ebe10c293aff6 f63d82ad2c7a6d924ecafd670b8cd87ee429ef8f Charina <charina10181990@gmail.com> 1499246340 +0800	commit: login check return
+f63d82ad2c7a6d924ecafd670b8cd87ee429ef8f 25b3ecba75f5a4a4f6715357161dcd913361a0ea Charina <charina10181990@gmail.com> 1499246793 +0800	commit: login check return
+25b3ecba75f5a4a4f6715357161dcd913361a0ea 4794ccb5b6929a63a89d63653a423d68892f1067 Charina <charina10181990@gmail.com> 1499248007 +0800	commit: push auth
+4794ccb5b6929a63a89d63653a423d68892f1067 007069981de731d510cbd3034f1334aed099af22 Charina <charina10181990@gmail.com> 1499429927 +0800	commit: push on delete vg
+007069981de731d510cbd3034f1334aed099af22 f98f199b32ce2668c42216b692c493566b62361d Charina <charina10181990@gmail.com> 1499430926 +0800	commit (merge): fix conflict
+f98f199b32ce2668c42216b692c493566b62361d b602f81a14eb8486c0fc28349a99535ade6a2e3a Charina <charina10181990@gmail.com> 1499444524 +0800	commit: on delete and fix dropdown volunteer group
+b602f81a14eb8486c0fc28349a99535ade6a2e3a 2c49231ed52b0091a303651e5b246e730bce36fd Charina <charina10181990@gmail.com> 1499518255 +0800	commit: update on reminder message event and vg
+2c49231ed52b0091a303651e5b246e730bce36fd 709993b1d84e17b1f79b2db57ebf7b60a231c0cc Charina <charina10181990@gmail.com> 1499525961 +0800	commit (merge): change variables
+709993b1d84e17b1f79b2db57ebf7b60a231c0cc d373397292bda206f90b22a7285ba706ba34a2a8 Charina <charina10181990@gmail.com> 1499677353 +0800	commit (merge): fix functionality of Volunteer group Add edit delete
+d373397292bda206f90b22a7285ba706ba34a2a8 5c86e622d347042660f74fcaa5e387b5fc047910 Charina <charina10181990@gmail.com> 1499677628 +0800	commit (merge): fix conflict
+5c86e622d347042660f74fcaa5e387b5fc047910 60b55164e621fcc528f63ddae01811d83b75436a Charina <charina10181990@gmail.com> 1499697574 +0800	commit: update on volunteer group function edit
+60b55164e621fcc528f63ddae01811d83b75436a 96372217ef0bae7b45f24721fbb6e32cbd5a150b Charina <charina10181990@gmail.com> 1499713488 +0800	commit: sending reminder messages and mail message
+96372217ef0bae7b45f24721fbb6e32cbd5a150b e8cbd16c56dd45ff17745c867df7a4deefdadb42 Charina <charina10181990@gmail.com> 1499754861 +0800	commit: fixed error on Donation and Adding Event
+e8cbd16c56dd45ff17745c867df7a4deefdadb42 94f15d8b2c1c3cfc8a996ad31ae063b153953124 Charina <charina10181990@gmail.com> 1499757258 +0800	commit: rmove same route name
+94f15d8b2c1c3cfc8a996ad31ae063b153953124 7b210b14f3240d6f6253a73511cde9e4ea8a6d6e Charina <charina10181990@gmail.com> 1499762526 +0800	commit: fixed error on emailing
+7b210b14f3240d6f6253a73511cde9e4ea8a6d6e 6c279e9e8d5fe060ef9f3de4b03f5097ce3bdb69 Charina <charina10181990@gmail.com> 1499762726 +0800	commit: fixed error on emailing
+6c279e9e8d5fe060ef9f3de4b03f5097ce3bdb69 bca63f6e6d5f1ae07262f2941f7832dc38fdba10 Charina <charina10181990@gmail.com> 1499764335 +0800	commit: fixed bug on changing recurring to single
+bca63f6e6d5f1ae07262f2941f7832dc38fdba10 05d41e8b2f54027335a0d50078f28dfc729956dd Charina <charina10181990@gmail.com> 1499920422 +0800	commit: Approve and reject on Volunteer Group and send email
+05d41e8b2f54027335a0d50078f28dfc729956dd cd1970bdec0ccdd6b6b4eac244e4a241f854d964 Charina <charina10181990@gmail.com> 1499930604 +0800	commit: Approve and reject on Volunteer Group and send email compatibilty to safari and ie
+cd1970bdec0ccdd6b6b4eac244e4a241f854d964 97f71a2d7333c76c96790433d9a1acb14a499529 Charina <charina10181990@gmail.com> 1499934748 +0800	commit: fix bug on edit vg
+97f71a2d7333c76c96790433d9a1acb14a499529 afbb0ca1a11fa9252c91625896c323c378f3caab Charina <charina10181990@gmail.com> 1499943423 +0800	commit: Fixed bug on delete and add vg
+afbb0ca1a11fa9252c91625896c323c378f3caab bb66715c936772533f84473b97c5d385a953a9bf Charina <charina10181990@gmail.com> 1500287780 +0800	commit: sending message recurring on participating and fix emails on volunteer and volunteer group
+bb66715c936772533f84473b97c5d385a953a9bf 89e09cced56f938044ea1609725c853057f6019f Charina <charina10181990@gmail.com> 1500296688 +0800	commit: sending auto message for zero transaction
+89e09cced56f938044ea1609725c853057f6019f 320d0b53c45e93b8b856573e62ce96bd5af4ab64 Charina <charina10181990@gmail.com> 1500296981 +0800	commit (merge): fix conflict
+320d0b53c45e93b8b856573e62ce96bd5af4ab64 270267e83def8d01ff7d4a9c6944f83399886dcb Charina <charina10181990@gmail.com> 1500374777 +0800	commit: fixed created a single event with single VG it creates recurring VG in Volunteers module
+270267e83def8d01ff7d4a9c6944f83399886dcb 02d8496c124fcdcbb4a9aa9ee954be9cad073339 Charina <charina10181990@gmail.com> 1500437407 +0800	commit: removed dd
+02d8496c124fcdcbb4a9aa9ee954be9cad073339 6122cc4c985e9b43b8ee2a877974a6e910627a3e Charina <charina10181990@gmail.com> 1500793519 +0800	commit: fixed ,When i edited the VG inside no. of repetition event, the particular occurrence before the edited event updated to no volunteer needed,Error on submitting the duplicate event form,Lack of validation on the Volunteer Group fields inside Edit Event Form
+6122cc4c985e9b43b8ee2a877974a6e910627a3e a14caadc79032cb04349783ed15f79b1a6fab5bc Charina <charina10181990@gmail.com> 1500797417 +0800	commit (merge): fix conflict on modal and Repository
+a14caadc79032cb04349783ed15f79b1a6fab5bc 7eeae4e9eef5b3b267df1ca979ab0994bdb28be1 Charina <charina10181990@gmail.com> 1500890951 +0800	commit: return back code for api function Volunteer Group
+7eeae4e9eef5b3b267df1ca979ab0994bdb28be1 46297e3f3d9edb054c9c8f09943876a687205bea Charina <charina10181990@gmail.com> 1501139611 +0800	commit: additional feature for volunteer group admin and user
+46297e3f3d9edb054c9c8f09943876a687205bea 4f4c8ee5c0a4b7dda82a33e9dc52d0b94f097615 Charina <charina10181990@gmail.com> 1501140279 +0800	commit (merge): fix conflict
+4f4c8ee5c0a4b7dda82a33e9dc52d0b94f097615 8cb7f21fc3e88833689280baed13ae74f9c2d32a Charina <charina10181990@gmail.com> 1501210977 +0800	commit: fixed bug,if applied volunteer reach the maximum capacity of VG the apply as Volunteer button disappear,Volunteer groups are not displaying,Unable to view the Events that has Volunteer Group due to long loading on the screen,Deleted Volunteer Group still displaying on the List of Volunteer Group
+8cb7f21fc3e88833689280baed13ae74f9c2d32a c2536cf6510bf078c938fb244de0392e71120ffa Charina <charina10181990@gmail.com> 1501214750 +0800	commit: Fixed bug on duplicate
+c2536cf6510bf078c938fb244de0392e71120ffa 001d4580817b3ddc620239701996664b79f1c96f Charina <charina10181990@gmail.com> 1501231918 +0800	commit: fix pagination and add back button and label
+001d4580817b3ddc620239701996664b79f1c96f 71c33d0af01d93b629e95c9acd5a8ea4fbe7509f Charina <charina10181990@gmail.com> 1501236653 +0800	commit: Sorting on VG and User Role
+71c33d0af01d93b629e95c9acd5a8ea4fbe7509f 15de270b89b8582a647e14f372e3ef427ff74bf8 Charina <charina10181990@gmail.com> 1501331663 +0800	commit: Fixed bug on modal of Event showing No Volunteer, fixed on submit event,fixed on edit VG from single to Recurring
+15de270b89b8582a647e14f372e3ef427ff74bf8 dc392b768ef39fba79055a5537d778b4c4782c0a Charina <charina10181990@gmail.com> 1501484191 +0800	commit: Email message for Approving, Declining, Deactivating and Activating an organization
+dc392b768ef39fba79055a5537d778b4c4782c0a 536b6e8d7cec98a76f99fa7412dc78c9ff1fb4ea Charina <charina10181990@gmail.com> 1501498461 +0800	commit: fixed responsive bugs for 1024x769 resolution
+536b6e8d7cec98a76f99fa7412dc78c9ff1fb4ea 4cbdaefbd31b7ecd8bc68b358b7e2fa90708153e Charina <charina10181990@gmail.com> 1501574009 +0800	commit: fixed bug on creating single event
+4cbdaefbd31b7ecd8bc68b358b7e2fa90708153e d6b16da33c46619b6c86850bf4e464b36e328f9c Charina <charina10181990@gmail.com> 1501579691 +0800	commit: fixed date on Volunteer group main list
+d6b16da33c46619b6c86850bf4e464b36e328f9c 4116573ed2d1bb411c3e48217befa73e857ba417 Charina <charina10181990@gmail.com> 1501654332 +0800	commit: pagination
+4116573ed2d1bb411c3e48217befa73e857ba417 fd4ea47ae61887fefcbaac0f07f08359119b7341 Charina <charina10181990@gmail.com> 1501744530 +0800	commit: fixed end date and show user volunteer group
+fd4ea47ae61887fefcbaac0f07f08359119b7341 7c6958cb790e3c4930ac4edf59ce9aa3371d9a34 Charina <charina10181990@gmail.com> 1501748773 +0800	commit: fixed delete event bug on volunteer group
+7c6958cb790e3c4930ac4edf59ce9aa3371d9a34 0dc493effd1822b8cfb74d35c166a130e40618b9 Charina <charina10181990@gmail.com> 1501753421 +0800	commit: fixed bug on required column on volunteer list admin and user side
+0dc493effd1822b8cfb74d35c166a130e40618b9 d4db574a5b64488eef42b15e8d9c2982db017d67 Charina <charina10181990@gmail.com> 1501821786 +0800	commit: fix bug on VG listing
+d4db574a5b64488eef42b15e8d9c2982db017d67 5648924cbc58a74aecd9f1327e1986a7bed6f319 Charina <charina10181990@gmail.com> 1501847187 +0800	commit: removed done vg on users volunteer group list and fixed loading cause by empty query on vg list
+5648924cbc58a74aecd9f1327e1986a7bed6f319 f63a9f0fbedfd081229af411c17290440974e74f Charina <charina10181990@gmail.com> 1502264849 +0800	commit: fix bug on Once there’s a finished VG in a recurring event w/VG the entire VGs for that recurring event are also not displaying on the List of Volunteer groups of church-goer and Guest.
+f63a9f0fbedfd081229af411c17290440974e74f 7144ad4ca3a75f87a9e8864106ff9e8807e52551 Charina <charina10181990@gmail.com> 1502267716 +0800	commit: back button issue
+7144ad4ca3a75f87a9e8864106ff9e8807e52551 71ecf571f20401bf23b338a8a1390c9691dcf8c6 Charina <charina10181990@gmail.com> 1502338617 +0800	commit: fixed bug on edit vg
+71ecf571f20401bf23b338a8a1390c9691dcf8c6 469fe9b024bf69d33408bf46ac86ec6c5d0573aa Charina <charina10181990@gmail.com> 1502349194 +0800	commit: fixed bug on Created separate event with same VG name but only the first created VG shows up on the List of Volunteers page and the other is not exposing
+469fe9b024bf69d33408bf46ac86ec6c5d0573aa 546b2c7769db11bde89ab363209133626fe6226b Charina <charina10181990@gmail.com> 1502353282 +0800	commit: fixed bug on Created separate event with same VG name but only the first created VG shows up on the List of Volunteers page and the other is not exposing,After updating recurring event w/VG (this and future event) the start date and end date of VGs that being displayed on the Volunteers page are not exact as what date entered for VG.
+546b2c7769db11bde89ab363209133626fe6226b ea0fbfe0249d0245d1e06654629074f010a8dc72 Charina <charina10181990@gmail.com> 1502353645 +0800	commit (merge): fixed conflict on VolunteerController
+ea0fbfe0249d0245d1e06654629074f010a8dc72 ddcaa772f4a2bf65d85ac26353e49529b810148c Charina <charina10181990@gmail.com> 1502419769 +0800	commit: modify volunteers needed if start date is greater than to date today, fixed volunteer list on user side
+ddcaa772f4a2bf65d85ac26353e49529b810148c 80d8daebe4c3eb39e74c89cada8e51602f8dd737 Charina <charina10181990@gmail.com> 1502421915 +0800	commit: add row color for past events for indication
+80d8daebe4c3eb39e74c89cada8e51602f8dd737 4a989d600f0996a397b68723fbdbab299c9572b5 Charina <charina10181990@gmail.com> 1502422437 +0800	commit (merge): fixed conflict on VolunteerGroup
+4a989d600f0996a397b68723fbdbab299c9572b5 d573be7df958c047715204261fdbabe5ceee7dd4 Charina <charina10181990@gmail.com> 1502425567 +0800	commit: modufy volunteer group
+d573be7df958c047715204261fdbabe5ceee7dd4 668cf94363e8c1c67f167b9ae7cca10ded174909 Charina <charina10181990@gmail.com> 1502429141 +0800	commit: change gray color to opacity if event was already passed, add status if Oragnization have no volunteer group yet
+668cf94363e8c1c67f167b9ae7cca10ded174909 d601544bbd8922dd45e2090007bb5b6b7b52fe68 Charina <charina10181990@gmail.com> 1502429322 +0800	commit: remove not needed variable
+d601544bbd8922dd45e2090007bb5b6b7b52fe68 133649f62dac1fa9ea23051183ed17583d877699 Charina <charina10181990@gmail.com> 1502441966 +0800	commit: modfy vg
+133649f62dac1fa9ea23051183ed17583d877699 fbef838a57d05677f0aedfc859e935f72c7e1efa Charina <charina10181990@gmail.com> 1502454423 +0800	commit: fix bug on back button
+fbef838a57d05677f0aedfc859e935f72c7e1efa a5ea6118886f63add8d515431325108cc02d7fd8 Charina <charina10181990@gmail.com> 1502680885 +0800	commit: removed pending column in user side
+a5ea6118886f63add8d515431325108cc02d7fd8 95063a8d7ebbcb0c517b81eed341f729f17f3005 Charina <charina10181990@gmail.com> 1502773349 +0800	commit: fixed the following Number of joined volunteers exceeds to Volunteers needed capacity,Pending column is not necessary for the church-goer and guests, much better to hide it,Volunteers history are not displaying only the pagination is visible on My Volunteer spot page
+95063a8d7ebbcb0c517b81eed341f729f17f3005 ba884da9c8c44ef337abae5d174e8c37fc56350f Charina <charina10181990@gmail.com> 1502777853 +0800	commit: fixed the following Number of joined volunteers exceeds to Volunteers needed capacity,Pending column is not necessary for the church-goer and guests, much better to hide it,Volunteers history are not displaying only the pagination is visible on My Volunteer spot page
+ba884da9c8c44ef337abae5d174e8c37fc56350f ae9520aac4935cf3c1062d449ea205a8fb1faa12 Charina <charina10181990@gmail.com> 1502783693 +0800	commit: fixed error on UserRepository
+ae9520aac4935cf3c1062d449ea205a8fb1faa12 92a283fa069c21c7f6ee32c699334e1d13496564 Charina <charina10181990@gmail.com> 1502798311 +0800	commit: group by type and event
+92a283fa069c21c7f6ee32c699334e1d13496564 c3d0e51d9d9317982b47d9e27dc4127c4708d14a Charina <charina10181990@gmail.com> 1502798996 +0800	commit (merge): fixed conflict
+c3d0e51d9d9317982b47d9e27dc4127c4708d14a 0a67dacbee589a42ba2e5f90ef9c8c00a3d92dd0 Charina <charina10181990@gmail.com> 1502874730 +0800	commit: fixed bug on added VG on the occurred events that has VG already, then the new VG is not showing up on Volunteers Page,start date spelling
+0a67dacbee589a42ba2e5f90ef9c8c00a3d92dd0 55068b41a0107d728bae8e733c9ef7c9daa3ae6b Charina <charina10181990@gmail.com> 1502953390 +0800	commit: VG details is not appearing inside Edit Event form (No. of repetition event, monthly and yearly)
+55068b41a0107d728bae8e733c9ef7c9daa3ae6b d11233ddd52ab113dcbcc67560949ae140e214d7 Charina <charina10181990@gmail.com> 1502958353 +0800	commit: VG details is not appearing inside Edit Event form (No. of repetition event, monthly and yearly)
+d11233ddd52ab113dcbcc67560949ae140e214d7 aab7add6cb311cf00a4678bc52c671c0215a9043 Charina <charina10181990@gmail.com> 1503474756 +0800	commit: New UI for Volunteer Group
+aab7add6cb311cf00a4678bc52c671c0215a9043 df7eb6fba63598151752955d8366864b3ba304ac Charina <charina10181990@gmail.com> 1503475966 +0800	commit (merge): fixed conflict
+df7eb6fba63598151752955d8366864b3ba304ac 1f248a90ebe34737cc1433e0449ca55c565fbef6 Charina <charina10181990@gmail.com> 1503477427 +0800	commit: fixed error on user side
+1f248a90ebe34737cc1433e0449ca55c565fbef6 55694503d85eb2f879cee475d2a356ce8f4b20ad Charina <charina10181990@gmail.com> 1503479011 +0800	commit: fixed error on user side
+55694503d85eb2f879cee475d2a356ce8f4b20ad e917ad46df90bf6f41b9712a490d08cb1f01bd8c Charina <charina10181990@gmail.com> 1503558493 +0800	commit: Add another column for Volunteers Status,End date of recurring event changed after adding another volunteer group on the existing event with VG,Event Start Date and End Date disappear when clicking on pagination,Add Status column to Volunteer History
+e917ad46df90bf6f41b9712a490d08cb1f01bd8c 94fd1269e7339105a1b83b02a2d55a1bc2c1e6de Charina <charina10181990@gmail.com> 1503558933 +0800	commit: fixed start date and end date on pagination on user side
+94fd1269e7339105a1b83b02a2d55a1bc2c1e6de 9456c0829f585a936391e4edca1ce2c16807c39a Charina <charina10181990@gmail.com> 1503559375 +0800	commit: fixed bug on Recurring Volunteer Groups appearing inside Duplicate Event Form
+9456c0829f585a936391e4edca1ce2c16807c39a fb7fa98372d02c7834e520a7a50e5f2baecb2be5 Charina <charina10181990@gmail.com> 1504149102 +0800	commit: Apply changes for User view Volunteer Group
+fb7fa98372d02c7834e520a7a50e5f2baecb2be5 c6a02a54a328d71e7daec2ad1595e967c7ed1bf4 Charina <charina10181990@gmail.com> 1504153001 +0800	commit: update
+c6a02a54a328d71e7daec2ad1595e967c7ed1bf4 c1627ba5d2c0daa87ad3d69ebb0bc2f6b65ae1f8 Charina <charina10181990@gmail.com> 1504168652 +0800	pull origin dev: Fast-forward
+c1627ba5d2c0daa87ad3d69ebb0bc2f6b65ae1f8 a884564c15eab96c943252a9642c1d537ea81f27 Charina <charina10181990@gmail.com> 1504599972 +0800	commit: fix listing
+a884564c15eab96c943252a9642c1d537ea81f27 292bbdd4f4e242944246625513e0b36a4e72cd0e Charina <charina10181990@gmail.com> 1504601656 +0800	commit: fix list
+292bbdd4f4e242944246625513e0b36a4e72cd0e baa0d7b07bfb5ecc19b03e2e60ec5cfdea4e74cf Charina <charina10181990@gmail.com> 1504604625 +0800	commit: fix list
+baa0d7b07bfb5ecc19b03e2e60ec5cfdea4e74cf 3b19f2cfb005f407bf915a0fe0822d1ae7b33d9a Charina <charina10181990@gmail.com> 1504855313 +0800	commit: update volunteer fields for applying, fixed bug on admin volunteer
+3b19f2cfb005f407bf915a0fe0822d1ae7b33d9a b02a4a17f24437af43a6917f600f9f28d27233b9 Charina <charina10181990@gmail.com> 1504855575 +0800	pull origin dev: Merge made by the 'recursive' strategy.
+b02a4a17f24437af43a6917f600f9f28d27233b9 772086897d381bc0677f3f54c3f4ce8e6c5653a4 Charina <charina10181990@gmail.com> 1504857596 +0800	commit: fixed missing dates

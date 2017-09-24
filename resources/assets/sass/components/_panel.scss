@@ -1,0 +1,21 @@
+.panel-information{
+    border-color:#04191C;
+    box-shadow:5px 5px 15px #888;
+    .personal-information{
+        background-color:#04191C!important;
+        border-color:#04191C!important;
+
+    }
+}
+.panel-body{
+    label{
+        font-family: "Montserrat", sans-serif;
+        text-align: left!important;
+    }
+    h4{
+        word-break: break-word;
+    }
+}
+.panel-default {
+    border: none;
+}

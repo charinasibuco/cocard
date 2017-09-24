@@ -1,0 +1,122 @@
+#form-language{
+    padding: 11px;
+    .btn{
+        padding: 0 10px;
+    }
+}
+.form-members{
+    .form-group{
+        min-height: 83px;
+    }
+}
+.form-control[readonly] {
+    background-color: #fff!important;
+}
+.color_scheme{
+    float: left;
+    width: 80%;
+}
+.sp-replacer{
+    float: left;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+fieldset{
+    .rolelist{
+
+        list-style: none;
+        -moz-column-count: 2;
+        -moz-column-gap: 10px;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 10px;
+        column-count: 2;
+    }
+}
+
+#adminAddUser{
+    div{
+        div{
+            .form-group:first-child{
+                margin-left:0px;
+                margin-right:0px;
+            }
+            .form-group:nth-child{
+                margin-left:0px;
+                margin-right:0px;
+                margin-top:10px;
+            }
+        }
+    }
+}
+
+#color_scheme{
+    float: left;
+
+    width: 75%;
+    margin-right: 10px;
+}
+.sp-replacer{
+    width: 20%;
+    padding: 6px 4px;
+}
+
+.add-family-form{
+    overflow: hidden;
+    .form-group{
+        margin-left:0px;
+    }
+}
+
+.form-horizon{
+    margin-left:40px;
+    margin-right:40px;
+}
+
+
+label{
+    &.error{
+        color: red;
+        font-size: 12px;
+        font-style: italic;
+        font-weight: normal;
+    }
+}
+
+input{
+    &.error{
+        background-color: pink;
+        border: 1px solid red;
+    }
+}
+
+.dropdown{
+    &:hover{
+        &.dropdown-menu{
+            display: inline-block;
+        }
+    }
+}
+
+.highlight_error{
+    border: solid 1px red !important;
+}
+.well{
+    .form-horizontal {
+        .form-group {
+            margin-left: 0;
+            margin-right: 0;
+        }
+    }
+}
+.role{
+    label{
+        font-weight: 500;
+    }
+}
+.input-group .form-control {
+z-index: 0;
+}

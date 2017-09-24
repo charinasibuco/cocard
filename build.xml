@@ -1,0 +1,43 @@
+<project name="name-of-project" default="build" basedir=".">
+    <!--  By default, we assume all tools to be on the $PATH  -->
+    <property name="toolsdir" value=""/>
+    <!--
+     Uncomment the following when the tools are in ${basedir}/vendor/bin
+    -->
+    <!--
+     <property name="toolsdir" value="${basedir}/vendor/bin/"/>
+    -->
+    <target name="build" depends="composer" description=""/>
+
+    
+    <target name="composer" depends="composer-install,composer-update,composer-dumpautoload" description="Install or update dependencies" />
+
+    <!--// Check to see it the vendor folder already exist, if so, then no reason to run //-->
+    <target name="composer.check">
+        <condition property="composer.exist">
+            <available file="${basedir}/vendor" type="dir" />
+        </condition>
+    </target>
+
+    <target name="composer-install" depends="composer.check" description="Installing dependencies">
+        <echo>Installing dependencies</echo>
+        <exec executable="composer" failonerror="true">
+            <arg value="install" />
+        </exec>
+    </target>
+
+    <target name="composer-update" depends="composer.check" if="composer.exist" description="Updating dependencies">
+        <echo>Updating dependencies</echo>
+        <exec executable="composer" failonerror="true">
+            <arg value="update" />
+        </exec>
+    </target>
+    
+    <target name="composer-dumpautoload" depends="composer.check" if="composer.exist" description="Dump Autoload">
+        <echo>Dump Autoload</echo>
+        <exec executable="composer" failonerror="true">
+            <arg value="dump-autoload" />
+        </exec>
+    </target>
+
+</project>

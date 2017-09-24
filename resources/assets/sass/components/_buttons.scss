@@ -1,0 +1,155 @@
+.btn{
+    i{
+        color: #fff;
+    }
+}
+.btn-green{
+    background-color: $btn-primary-bg;
+    border: 1px solid $btn-primary-bg;
+    color: $btn-primary-color;
+    width: auto;
+    &:hover, &:focus{
+        background-color: $btn-primary-bg;
+        border: 1px solid $btn-primary-bg;
+        color: $btn-primary-color;
+    }
+}
+.btn-darkblue{
+    background-color: $btn-default-bg;
+    border: 1px solid $btn-default-bg;
+    color: $btn-default-color;
+    &:hover, &:focus{
+        background-color: $btn-default-bg;
+        border: 1px solid $btn-default-bg;
+        color: $btn-default-color;
+    }
+}
+.btn-red{
+    background-color: $btn-danger-bg;
+    border: 1px solid $btn-danger-bg;
+    color: $btn-danger-color;
+    &:hover, &:focus{
+        background-color: $btn-danger-bg;
+        border: 1px solid $btn-danger-bg;
+        color: $btn-danger-color;
+    }
+}
+.btn-ghost-gray{
+    background-color: transparent;
+    border: 1px solid $gray-dark;
+    color: $gray-dark;
+    &:hover, &:focus{
+        background-color: transparent;
+        border: 1px solid $gray-dark;
+        color: $gray-dark;
+    }
+    a{
+        color: $gray-dark;
+        &:hover, &:focus{
+            text-decoration: none;
+        }
+    }
+}
+.btn-right{
+    margin-right:70px;
+}
+#add_button{
+    margin-top: 15px;
+    margin-bottom: 10.5px;
+    float: right;
+}
+#save_button{
+    margin-bottom: 10px;
+}
+.btn-light-blue {
+    background-color: #398cff;
+    border: 1px solid #398cff;
+}
+.btn-link{
+    color: #666;
+}
+
+.btn-full{
+    width: 100%;
+}
+.fa-stack-1x {
+    color:white;
+}
+.icon-edit {
+    color:#012732;
+}
+.icon-delete {
+    color:#ff1a1a;
+}
+
+.save-button{
+    float:right;
+    margin-right:-70px;
+    margin-bottom:20px;
+    @media(max-width:675px){
+        margin-right:0px;
+    }
+}
+
+.add_button{
+    @media(max-width:675px){
+        font-size:13pt;
+    }
+}
+@media(max-width:675px){
+    .org-button{
+        font-size:13px;
+    }
+}
+
+.admin-buttons{
+    float:right;
+}
+
+.this-div{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.this-button{
+    margin-top:10px;
+}
+
+.edit-user-buttons{
+    margin-bottom:20px;
+    .cancel-button{
+        margin-left:5px;
+    }
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.delete-confirmation{
+    a{
+        color: #a94442;
+        font-weight:bold;
+        margin-left:20px;
+        cursor: pointer;
+    }
+}
+.activate-confirmation, .deactivate-confirmation{
+    display: none;
+    a{
+        color: #a94442;
+        font-weight:bold;
+        margin-left:20px;
+        cursor: pointer;
+    }
+}

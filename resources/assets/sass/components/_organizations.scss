@@ -1,0 +1,264 @@
+#organizations{
+
+    .search{
+        float:right;
+    }
+
+    @media (max-width: 767px){
+        .list-of-org{
+            .panel{
+                &:first-child {
+                    margin-top: 50px;
+                }
+            }
+        }
+    }
+    #x_button{
+        border:none;
+        background-color:transparent;
+        z-index:999;
+        margin-left:-35px;
+        font-size:10px;
+    }
+    .min-height{
+        p{
+            min-height: 100px;
+        }
+    }
+
+    $breakpoint-alpha: 768px; // adjust to your needs
+
+    .rwd-table {
+        margin: 1em 0;
+         // adjust to your needs
+        tr {
+            @media screen and (max-width:767px){
+                border-top: 1px solid #ddd;
+                border-bottom: 1px solid #ddd;
+            }
+
+        }
+        th {
+            display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!
+        }
+        td {
+            display: block;
+
+            &:first-child {
+                padding-top: .5em;
+            }
+            &:last-child {
+                padding-bottom: .5em;
+            }
+
+            &:before {
+                content: attr(data-th)": "; // who knew you could do this? The internet, that's who.
+                font-weight: bold;
+                // optional stuff to make it look nicer
+                width: 100%; // magic number :( adjust according to your own content
+                display: inline-block;
+                // end options
+                @media (min-width: $breakpoint-alpha) {
+                    display: none;
+                }
+            }
+        }
+        th, td {
+            text-align: left;
+
+            @media (min-width: $breakpoint-alpha) {
+                display: table-cell;
+                padding: .25em .5em;
+
+                &:first-child {
+                    padding-left: 0;
+                }
+
+                &:last-child {
+                    padding-right: 0;
+                }
+            }
+        }
+    }
+}
+
+.payment-info{
+    .form-group{
+        h4,h5{
+            text-align:center;
+        }
+        .textbelow{
+            text-align:center;
+            color:#a6a6a6;
+        }
+    }
+}
+.donation-layout{
+    div{
+        margin-top:10px;
+        div{
+            div{
+                .thumbnail{
+                    background-color:#f2f2f2;
+                    border-radius:10px;
+
+                    button{
+                        margin-bottom:20px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.onetime-donate{
+    height:auto;
+    .row{
+        @media (max-width: 991){
+            margin-left: 0;
+        }
+    }
+    div{
+        div{
+            h2{
+                margin-top:0px;
+            }
+            .input-group-addon.large {
+                background-color: #ccccff;
+                font-size: 60pt;
+                height: 150px;
+                border: 0px none;
+                @media(max-width: 768px) {
+                    font-size: 30pt;
+                    height: 60px;
+                }
+            }
+            .this_input{
+                background-color:#ccccff;
+                font-size:60pt;
+                width:100%;
+                height:150px;
+                border: 0px none;
+                text-align:right;
+                @media(max-width: 768px) {
+                    font-size:30pt;
+                    height: 60px;
+                }
+            }
+        }
+    }
+}
+
+.recurring-donate{
+    overflow:hidden;
+    div{
+        div{
+            h2{
+                margin-top:0px;
+            }
+            .amount{
+                background-color:#ccccff;
+                font-size:60pt;
+                width:100%;
+                height:150px;
+                border: 0px none;
+                text-align:right;
+            }
+            button{
+                width:80%;
+                margin-left:10%;
+                margin-right:10%;
+            }
+        }
+    }
+}
+.banner-btn{
+    i{
+        font-size:60px;
+        color:#fff;
+    }
+    button:hover{
+        background:#ffffff;
+        p{
+            color:#000;
+        }
+    }
+    .hovereffect {
+        width: 100%;
+        float: left;
+        height: 150px;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        cursor: default;
+
+        .overlay {
+            position: absolute;
+            overflow: hidden;
+            width: 80%;
+            top: 42%;
+            border-bottom: 1px solid #FFF;
+            border-top: 1px solid #FFF;
+            // -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+            // transition: opacity 0.35s, transform 0.35s;
+            -webkit-transform: scale(0,1);
+            -ms-transform: scale(0,1);
+            transform: scale(0,1);
+            left: 10%;
+        }
+        i{
+            &:hover{
+                color: #fff;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .hovereffect:hover .overlay {
+        opacity: 1;
+        filter: alpha(opacity=100);
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+
+    .hovereffect img {
+        display: block;
+        position: relative;
+        -webkit-transition: all 0.35s;
+        transition: all 0.35s;
+    }
+
+
+    .hovereffect h2 {
+        text-transform: uppercase;
+        text-align: center;
+        position: relative;
+        font-size: 17px;
+        background-color: transparent;
+        color: #FFF;
+        padding: 1em 0;
+        // filter: alpha(opacity=0);
+        // -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+        // transition: opacity 0.35s, transform 0.35s;
+        // -webkit-transform: translate3d(0,-100%,0);
+        // transform: translate3d(0,-100%,0);
+    }
+
+    .hovereffect a, .hovereffect p {
+        color: #FFF;
+        padding: 1em 0;
+        // filter: alpha(opacity=0);
+        // -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+        // transition: opacity 0.35s, transform 0.35s;
+        -webkit-transform: translate3d(0,100%,0);
+        transform: translate3d(0,100%,0);
+    }
+
+    .hovereffect:hover a, .hovereffect:hover p, .hovereffect:hover h2 {
+        opacity: 1;
+        filter: alpha(opacity=100);
+        -webkit-transform: translate3d(0,0,0);
+        transform: translate3d(0,0,0);
+    }
+}

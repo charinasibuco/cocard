@@ -1,0 +1,25 @@
+
+.error-body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #1a1a1a;
+    display: table;
+    font-weight: 70;
+}
+.error-container {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.error-content {
+    text-align: center;
+    display: inline-block;
+}
+
+.error-title {
+    font-size: 72px;
+    margin-bottom: 40px;
+}
